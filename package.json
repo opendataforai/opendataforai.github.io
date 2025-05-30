@@ -62,6 +62,6 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://opendataforai.github.io/",
-  "comment_homepage": "https://opendataforai.in"
+  "comment_homepage": "https://opendataforai.github.io/",
+  "homepage": "https://opendataforai.in"
 }
