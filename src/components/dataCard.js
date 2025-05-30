@@ -1,7 +1,6 @@
 import React from 'react';
 import tw from 'twin.macro';
 import styled from 'styled-components';
-import { dataPosts } from './dataPosts';
 
 const Card = tw.div`lg:mx-4 xl:mx-8 max-w-sm lg:max-w-xs`;
 const Image = styled.div(props => [
@@ -9,7 +8,6 @@ const Image = styled.div(props => [
   tw`bg-cover bg-center h-80 lg:h-64 rounded`
 ]);
 
-const Container = tw.div`relative`;
 
 const Category = tw.div`mt-4 text-secondary-100 font-bold text-sm`;
 const Title = tw.h4`mt-2 leading-relaxed font-bold text-lg`;

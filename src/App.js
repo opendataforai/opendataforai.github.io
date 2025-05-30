@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import React from 'react';
 import GlobalStyles from './styles/GlobalStyles';
 import Home from './pages/Home.js';

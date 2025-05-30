@@ -1,11 +1,12 @@
 import React from 'react';
-import tw from 'twin.macro';
-import { css } from 'styled-components';
 import Header from '../components/header';
 import Hero from '../components/hero';
 import FeaturedData from '../components/featuredData';
 import { dataPosts } from '../components/dataPosts';
 import Footer from '../components/footer';
+// eslint-disable-next-line no-unused-vars
+import tw from 'twin.macro';
+import { css } from 'styled-components';
 
 function Home() {
     return (

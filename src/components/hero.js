@@ -1,8 +1,9 @@
 import React from 'react';
-import styled from 'styled-components';
-import tw from 'twin.macro';
 import HeroBanner from "../images/hero-3-bg-removed.png";
+// eslint-disable-next-line no-unused-vars
+import tw from 'twin.macro';
 import { css } from "styled-components/macro";
+import styled from 'styled-components';
 
 
 const Heading = tw.h1`font-bold text-3xl md:text-3xl lg:text-4xl xl:text-5xl text-gray-900 leading-tight`;
@@ -53,7 +54,7 @@ export default function Hero() {
                 </LeftColumn>
                 <RightColumn>
                     <IllustrationContainer>
-                    <img tw="min-w-0 w-full max-w-lg xl:max-w-2xl" src={HeroBanner} alt="Hero Image" />
+                    <img tw="min-w-0 w-full max-w-lg xl:max-w-2xl" src={HeroBanner} alt="Hero Banner" />
                     </IllustrationContainer>
                 </RightColumn>
             </TwoColumn>

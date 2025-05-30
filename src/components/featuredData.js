@@ -1,6 +1,6 @@
 import React from 'react';
 import tw from 'twin.macro';
-import styled from 'styled-components';
+// import styled from 'styled-components';
 import ColumnGrid from './dataCard';
 
 const Container = tw.div`relative`;
