@@ -1,7 +1,7 @@
 const dataPosts = [
     {
       imageSrc:
-        "https://images.unsplash.com/photo-1669399213378-2853e748f217?q=80&w=1932&auto=format&fit=crop&w=500&q=80",
+        "https://images.unsplash.com/photo-1669399213378-2853e748f217?q=80&w=500&auto=format&fit=crop",
       category: "Government of India",
       title: "Publicly available datasets of Ministry of Statistics and Programme Implementation",
       url: "https://esankhyiki.mospi.gov.in/catalogue-main"
@@ -15,7 +15,7 @@ const dataPosts = [
     },
     {
       imageSrc:
-          "https://images.unsplash.com/photo-1601897690942-bcacbad33e55?q=80&w=2076&auto=format&fit=crop&w=500&q=80",
+          "https://images.unsplash.com/photo-1601897690942-bcacbad33e55?q=80&w=500&auto=format&fit=crop",
         // "https://images.unsplash.com/photo-1499364615650-ec38552f4f34?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
 
       category: "Government of India",
