@@ -1,9 +1,9 @@
 import React from 'react';
 import HeroBanner from "../images/hero-3-bg-removed.png";
-// eslint-disable-next-line no-unused-vars
+
 import tw from 'twin.macro';
-import { css } from "styled-components/macro";
-import styled from 'styled-components';
+import { css } from "styled-components/macro"; // eslint-disable-line no-unused-vars
+import styled from 'styled-components'; // eslint-disable-line no-unused-vars
 
 
 const Heading = tw.h1`font-bold text-3xl md:text-3xl lg:text-4xl xl:text-5xl text-gray-900 leading-tight`;

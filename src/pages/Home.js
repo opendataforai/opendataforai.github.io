@@ -4,9 +4,8 @@ import Hero from '../components/hero';
 import FeaturedData from '../components/featuredData';
 import { dataPosts } from '../components/dataPosts';
 import Footer from '../components/footer';
-// eslint-disable-next-line no-unused-vars
-import tw from 'twin.macro';
-import { css } from 'styled-components';
+import tw from 'twin.macro'; // eslint-disable-line no-unused-vars
+import { css } from 'styled-components'; // eslint-disable-line no-unused-vars
 
 function Home() {
     return (
