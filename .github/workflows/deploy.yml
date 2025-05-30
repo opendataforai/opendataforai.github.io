@@ -29,4 +29,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+          cname: opendataforai.in
           # publish_branch: gh-pages  # branch to deploy to
